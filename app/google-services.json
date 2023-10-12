@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097541504097",
+    "project_id": "auth-8536a",
+    "storage_bucket": "auth-8536a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097541504097:android:bbf91b4a4c905be040ae20",
+        "android_client_info": {
+          "package_name": "com.example.recentnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097541504097-6oh9l1353v6j5114th2fq98incvl4scs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJDM2twCoMYFb4EUOCVANa9mTOHQvlcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097541504097-6oh9l1353v6j5114th2fq98incvl4scs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
